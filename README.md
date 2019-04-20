@@ -6,3 +6,7 @@
 - * DataModeling: ipld&multiformats // :irecord:
 - * Networking: libp2p&multiformats
 - * Naming: IPNS/IPRS?
+
+### License
+
+MIT
