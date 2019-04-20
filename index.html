@@ -1,3 +1,18 @@
-<script src="void()"></script>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>i:trust - natural trust protocol</title>
+</head>
+<body>
+	<input id="trustee" type="input" value="js.ipfs.io">
+	<button onclick="trust()">Goo</button>
+  <script src="void()"></script>
+  <script>
+  	const trust = () => {
+  		const trustee = document.getElementById('trustee').value
 
-<script>open('itrust.html')</script>
+  		open('./irecord/' + trustee + '.json')
+  	}
+  </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+	"i": "libp2p.io",
+	"trust": {
+		"multiaddr": [
+			"/dnsaddr/js.ipfs.io/https",
+			"/ip4/209.94.90.1/tcp/443/https/ipfs/QmbD43XgQ7Tb4242yVZR5kCRUjkonmaZqBWjsfPs5eD9xm",
+			"/ip4/209.94.90.1/tcp/443/https/ipns/libp2p.io",
+			"/ipfs/QmbD43XgQ7Tb4242yVZR5kCRUjkonmaZqBWjsfPs5eD9xm",
+			"/ipns/libp2p.io"
+		],
+		"dns": {
+			"A": "209.94.90.1",
+			"TXT": "_dnslink.libp2p.io"
+		},
+		"origin": "https://libp2p.io"
+	},
+	"links": []
+}
