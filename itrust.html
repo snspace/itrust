@@ -1,0 +1,15 @@
+<script>
+	const itrust = (saying) => {
+		if('i:trust' === saying) {
+			open('./i:trust')
+		} else {
+			alert('Better Not Trust: ' + saying)
+		}
+	}
+
+	self.onload = () => {
+		const saying = prompt('I trust: ', 'i:trust')
+
+		itrust(saying)
+	}
+</script>

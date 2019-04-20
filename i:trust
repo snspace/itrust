@@ -1,0 +1,15 @@
+######### i:trust #########
+
+i       = i               #
+
+:       = :               #
+
+trust   = object          #
+
+object  = multiformats|*  # 
+
+i:trust = ${this}         #
+
+${this} = ${cidv0}|object #
+
+######### i:trust #########
