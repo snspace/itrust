@@ -1,1 +1,1 @@
-# i:trust - natural trust protocal
+# i:trust - natural trust protocol
