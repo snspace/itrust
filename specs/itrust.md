@@ -32,11 +32,11 @@ ${this} = ${cid}|object #
 - * `i:trust` is used for `I trust something`
 - * `${this}` claims the `reference` to the protocol itself
 - * `${cid}|object` tells something is in the form of `cid` or `object`
-- * * The value follows the protocol of `cid` from [ipld](ipld.io)
+- * * `${cid}` follows the protocol of `cid` from [ipld](ipld.io)
 
 - Implication
 > Trust ought to be like a distributed web
-> - Everyone is an unique apex
+> - Everyone is a unique apex
 > - Everyone has a dynamic set of connections, a.k.a, trustees
 > - Trust is distributed via a peer-to-peer network topology
 
@@ -50,7 +50,7 @@ Within the spacetime continuum of the world, _trust_ is evolving ...
 
 ... _Alice_ trusts _apple_, _Bob_ trusts _banana_, _Chris_ trusts _cat_ ...
 
-..
+...
 
 ... _Alice_ trusts _apple_, _cat_, _Bob_, and ...
 
