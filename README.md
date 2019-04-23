@@ -4,7 +4,16 @@
 
 ### Forwarding
 
-- Bootstrapping
+- Search-alike: Bingo
+- * ipfs.dht
+- * ipfs.dns
+- * ipfs.resolve
+- * ipfs.name.resolve
+- * ipfs.object.links
+- * ...
+
+- Bootstrapping: itrust.edening.net
+- * using mdb-jquery template @ /ipfs/QmSbRgJTLpR2jVPw8jWLtdpNTvcd77f4zi3yRaWKY74Xf1
 
 ---
 - Foundation: IPFS

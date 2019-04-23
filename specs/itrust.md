@@ -18,7 +18,7 @@ object  = multiformats|*  #
 
 i:trust = ${this}         #
 
-${this} = ${cid}|object #
+${this} = ${cid}|object   #
 
 ######### i:trust #########
 
