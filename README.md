@@ -12,6 +12,7 @@
 - * ipfs.object.links
 - * ...
 
+---
 - Bootstrapping: @ /ipfs/QmReE6PpSkSaVTU22E5S9tJhUYqaKEnqNHSxTY2oxzLaF1
 - * using mdb-jquery template @ /ipfs/QmSbRgJTLpR2jVPw8jWLtdpNTvcd77f4zi3yRaWKY74Xf1
 
