@@ -2,6 +2,8 @@
 
 > A natural human protocol to make the trust easier, safer, and more pleasant.
 
+> :eyes: **Protocol [【i】](https://github.com/snspace/itrust/blob/master/specs/itrust.md)**
+
 ### Forwarding
 
 - Search-alike: Bingo // `coding`
